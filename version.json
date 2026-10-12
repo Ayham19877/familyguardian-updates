@@ -1,6 +1,6 @@
 {
-  "versionCode": 20261304,
-  "versionName": "11.59",
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/familyguardian-updates/main/FamilyGuardian-v11.59.apk",
-  "notes": "إصلاح دقة GPS: لا سرعة وهمية عند الوقوف + حركة ناعمة للخريطة"
+  "versionCode": 20261305,
+  "versionName": "11.60",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/familyguardian-updates/main/FamilyGuardian-v11.60.apk",
+  "notes": "إصلاح مدة البقاء: الرجوع للبيت بعد غياب = زيارة جديدة"
 }
