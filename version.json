@@ -1,1 +1,6 @@
-{"versionCode":20261323,"versionName":"11.67","apkUrl":"https://raw.githubusercontent.com/Ayham19877/familyguardian-updates/main/FamilyGuardian-v11.67.apk","notes":"إصلاح إضاءة الأماكن المشغولة ✅"}
+{
+  "versionCode": 20261324,
+  "versionName": "11.68",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/familyguardian-updates/main/apks/FamilyGuardian-v11.68.apk",
+  "notes": "خريطة جوجل بدل Leaflet"
+}
